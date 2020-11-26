@@ -1,2 +1,2 @@
-# Leetcode Solutions
-Public repository for Leetcode solutions in Java
+# LeetCode Solutions
+Repository for PancakeCoder's LeetCode solutions in Java
