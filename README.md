@@ -1,4 +1,2 @@
-# Leetcode
-Leetcode Problems
-
-Public repository for leetcode problem solutions in Java
+# Leetcode Solutions
+Public repository for Leetcode solutions in Java
