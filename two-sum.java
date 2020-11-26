@@ -13,6 +13,6 @@ class Solution {
             map.put(nums[i], i);
         }
                
-        return result;
+        throw new IllegalArgumentException("No valid solution");
     }
 }
